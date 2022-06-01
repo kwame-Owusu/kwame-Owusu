@@ -1,4 +1,3 @@
-[![MasterHead](https://www.pinterest.co.uk/pin/104427285101405280/)](https://https://kwame-owusu.github.io/)
 <h1 align="center">Hi 👋, I'm Kwame Owusu</h1>
 <h3 align="center">Computing Student</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
