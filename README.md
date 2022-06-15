@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **alfredowusu595@gmail.com**
 
-- ⚡ Fun fact **I am a Weeb**
+- ⚡ Fun fact **I read too many mangas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
