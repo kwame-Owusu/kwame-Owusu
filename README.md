@@ -25,4 +25,4 @@ I'm a am currently a computing student at Nottingham College, after completing m
 
 <details>
 <summary><h3>👨‍💻 Alfred(Kwame owusu) coding journey</h3></summary>
-hahahaha you taught I built anything interesting huh?, nope, just started learning to code a few months ago, but I promise i'll have something to show eventually.
+hahahaha you taught I built anything interesting huh?, nope, just started learning to code, I tried to code before in 2019 but i was not determined and it just slipped away from my lifestyle,but right now i have picked it up again and it has been going smooothly -- I am understanding the concepts in the languages that I am studying.,I promise i'll have something to show eventually.
