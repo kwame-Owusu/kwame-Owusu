@@ -4,7 +4,7 @@
 - ⚡ Fun fact **I read too many mangas**
 
 
-I'm a am currently a computing student at Nottingham College, after completing my course I intend to further my education at University with Computer Science or Software Engineering course, I like coding -- its fun sometimes, sometimes its not, but we move. <img src="https://www.pinterest.co.uk/pin/621848661034822779/">
+I'm a am currently a computing student at Nottingham College, after completing my course I intend to further my education at University with Computer Science or Software Engineering course, I like coding -- its fun sometimes, sometimes its not, but we move. <img src="https://www.pinterest.es/pin/715861303262981379/">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
