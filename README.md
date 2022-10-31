@@ -1,6 +1,6 @@
 # Kwame Owusu
 
-** `Aspiring Software Developer`**
+** Aspiring Software Developer**
 - ⚡ Fun fact **I read too many mangas**
 
 
