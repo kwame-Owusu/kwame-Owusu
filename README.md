@@ -5,7 +5,7 @@
  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
 I'm a am currently a computing student at Nottingham College, after completing my course I intend to further my education at University with Computer Science or Software Engineering course, I like coding -- its fun sometimes, sometimes its not, but we move.
 
-- ⚡ Fun fact **I read too many mangas**
+- ⚡ Fun fact **I read too many mangas and my favourite one is vagabond by Takehiko Inoue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
