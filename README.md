@@ -10,7 +10,7 @@ I'm a am currently a software engineering student at university, I like coding -
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/alfredow23/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alfred owusu boakye" height="30" width="40" /></a>
-<a href="https://instagram.com/ghanianpapi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ghanianpapi" height="30" width="40" /></a>
+<a href="https://instagram.com/Kwm.Ows" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Kwm.Ows" height="30" width="40" /></a>
 </p>
 
 
