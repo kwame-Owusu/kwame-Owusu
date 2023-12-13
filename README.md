@@ -23,7 +23,6 @@ I'm a am currently a software engineering student at university, I like coding -
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=coffeefrog101&show_icons=true&locale=en&layout=compact" alt="coffeefrog101" /></p>
 <details>
 <summary><h3>👨‍💻 Kwame owusu coding journey</h3></summary>
 learning new concepts and technologies and having fun in the process.
