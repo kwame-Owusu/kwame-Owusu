@@ -25,4 +25,4 @@ I'm a am currently a software engineering student at university, I like coding -
 
 <details>
 <summary><h3>👨‍💻 Kwame owusu coding journey</h3></summary>
-learning new concepts and technologies and having fun in the process.
+<p align="center">learning new concepts and technologies and having fun in the process.</p>
