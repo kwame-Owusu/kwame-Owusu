@@ -3,9 +3,10 @@
 **Digital Craftsman**
 
  <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
-I'm a am currently a software engineering student at university, I like coding -- its fun,  sometimes....
+I'm a software engineering student at university, I like coding -- its fun,  sometimes....
 
 - ⚡ Fun fact **I read too many mangas and my favourite one is vagabond by Takehiko Inoue**
+- 📖 favourite book **No Longer Human by Ozamu Dazai**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
