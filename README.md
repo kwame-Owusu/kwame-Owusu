@@ -1,4 +1,4 @@
-# Hi <img src="https://media.tenor.com/qKGlaYl2DqMAAAAi/gif-de-sauda%C3%A7%C3%A3o.gif">, I'm Kwame Owusu
+# Hi 👋, I'm Kwame Owusu
 
 **Digital Craftsman**
 
