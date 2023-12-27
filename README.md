@@ -20,7 +20,8 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
 
-                    
+## 🧑🏿‍💻 Currently learning
+[![My Skills](https://skillicons.dev/icons?i=cpp,js)](https://skillicons.dev)
 
 
 
@@ -29,9 +30,8 @@ I'm a software engineering student at university, I like coding -- its fun,  som
  
 <br>
 <img src="https://camo.githubusercontent.com/1ff785c8c9fad820ae3e1ec8cf8bfb278550eeacb45c0d2b7afe715b8c788575/68747470733a2f2f6d6174746865773930332e66696c65732e776f726470726573732e636f6d2f323031362f30362f7468652d77696e642d72697365732d77726974696e672d6769662e676966">
-<p align="left">currently learning new technologies and concepts, specifically</p> 
+<p align="left">currently learning new technologies and concepts</p> 
 </details>
 
-[![My Skills](https://skillicons.dev/icons?i=c++,js)](https://skillicons.dev)
 
 
