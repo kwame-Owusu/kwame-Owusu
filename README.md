@@ -2,7 +2,7 @@
 
 **Digital Craftsman**
 
- <img src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
+ <img  autoplay src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
 I'm a software engineering student at university, I like coding -- its fun,  sometimes....
 
 - ⚡ Fun fact **I read too many mangas and my favourite one is vagabond by Takehiko Inoue**
