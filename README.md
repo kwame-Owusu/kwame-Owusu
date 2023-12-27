@@ -16,7 +16,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 
 
-### 🧰 Languages and Tools I've worked with
+### 🛠️ Languages and Tools I've worked with
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
 
