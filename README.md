@@ -29,7 +29,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 <summary> <h3>👨‍💻 Kwame owusu coding journey</h3> </summary>
  
 <br>
-<img src="https://camo.githubusercontent.com/1ff785c8c9fad820ae3e1ec8cf8bfb278550eeacb45c0d2b7afe715b8c788575/68747470733a2f2f6d6174746865773930332e66696c65732e776f726470726573732e636f6d2f323031362f30362f7468652d77696e642d72697365732d77726974696e672d6769662e676966">
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F645562927827239138%2F&psig=AOvVaw0P_f8LdXvPqAzsfFAOvj0a&ust=1705149305762000&source=images&cd=vfe&opi=89978449&ved=0CBMQjhxqFwoTCOji3LLu14MDFQAAAAAdAAAAABAK">
 <p align="left">Although I have been "properly" coding for 6 months, I still feel gaps in my knowledge and I know its up to me to fill these gaps so I am learning new technologies and programming concepts.</p> 
 </details>
 
