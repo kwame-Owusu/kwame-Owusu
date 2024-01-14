@@ -28,8 +28,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 <details open>
 <summary> <h3>👨‍💻 Kwame owusu coding journey</h3> </summary>
  
-<br>
-![](https://github.com/kwame-Owusu/kwame-Owusu/blob/main/study-anime.gif.gif)
+<br> ![](https://github.com/kwame-Owusu/kwame-Owusu/blob/main/study-anime.gif)
 <p align="left">Although I have been "properly" coding for 6 months, I still feel gaps in my knowledge and I know its up to me to fill these gaps so I am learning new technologies and programming concepts.</p> 
 </details>
 
