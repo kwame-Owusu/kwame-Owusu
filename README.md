@@ -20,7 +20,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
 
-## 🧑🏿‍💻 Currently learning
+## 🧑🏿‍💻  Trying to learn
 [![My Skills](https://skillicons.dev/icons?i=cpp,js)](https://skillicons.dev)
 
 
@@ -29,7 +29,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 <summary> <h3>👨‍💻 Kwame owusu coding journey</h3> </summary>
  
 <br> ![](https://github.com/kwame-Owusu/kwame-Owusu/blob/main/study-anime.gif)
-<p align="left">Although I have been "properly" coding for 6 months, I still feel gaps in my knowledge and I know its up to me to fill these gaps so I am learning new technologies and programming concepts.</p> 
+<p align="left">Currently Learning as much as I can from my university course and other resources on the side.</p> 
 </details>
 
 
