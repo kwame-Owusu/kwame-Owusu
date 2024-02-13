@@ -20,7 +20,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,git)](https://skillicons.dev)
 
-## 🧑🏿‍💻  Trying to learn
+## 🧑🏿‍💻  Learning
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 
 
