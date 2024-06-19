@@ -22,7 +22,7 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 ## 🧑🏿‍💻  Learning
 [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev) It is also my goal to getter better at Data structures and Algorithms.
+[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
 
 
 
