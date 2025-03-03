@@ -18,11 +18,10 @@ I'm a software engineering student at university, I like coding -- its fun,  som
 
 ### 🛠️ Languages and Tools I've worked with
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,html,css,git,cpp,linux,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,linux,jenkins)](https://skillicons.dev)
 
 ## 🧑🏿‍💻  Learning
-[![My Skills](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=astro)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,astro)](https://skillicons.dev)
 
 
 
