@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kwame Owusu
 
  <img  autoplay src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
-I'm a software engineering student at university, I like coding -- its fun,  sometimes....
+I'm a software engineering student at university, I like coding -- its fun learning the craft to become better.
 
 - ⚡ Fun fact **I read too many mangas and my favourite one is vagabond by Takehiko Inoue**
 <h3 align="left">Connect with me:</h3>
