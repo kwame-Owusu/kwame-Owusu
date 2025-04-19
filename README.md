@@ -1,7 +1,7 @@
 # Hi 👋, I'm Kwame Owusu
 
  <img  autoplay src="https://i.pinimg.com/originals/70/37/d4/7037d478852af21357f038fac2d2e9f6.gif">
-I'm a software engineering student at university, I like coding -- its fun learning the craft to become better.
+I'm a software engineering student at university, I like coding -- I want to become better.
 
 - ⚡ Fun fact **I read too many mangas and my favourite one is vagabond by Takehiko Inoue**
 <h3 align="left">Connect with me:</h3>
@@ -14,9 +14,6 @@ I'm a software engineering student at university, I like coding -- its fun learn
 ### 🛠️ Languages and Tools I've worked with
 
 [![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,linux,jenkins)](https://skillicons.dev)
-
-## 🧑🏿‍💻  Learning
-[![My Skills](https://skillicons.dev/icons?i=ts,astro)](https://skillicons.dev)
 
 
 
