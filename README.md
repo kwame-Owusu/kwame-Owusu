@@ -13,7 +13,7 @@ I'm a software engineering student at university, I like coding -- I want to bec
 
 ### 🛠️ Languages and Tools I've worked with
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,linux,jenkins)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,js,cpp,html,css,git,linux,jenkins,ts)](https://skillicons.dev)
 
 
 
